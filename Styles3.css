@@ -1,0 +1,59 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    color: azure;
+}
+form {
+    margin-right: 0%;
+    margin: 20px;
+    padding: 2 0px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: rgb(34, 32, 32);
+}
+label {
+    color: azure;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+#Gender{
+    width: 20px;
+    text-align: left;
+}
+
+.p {
+    margin: 0%;
+}
+
+input {
+    margin: 0%;
+    background-color: azure;
+    margin-bottom: 10px;
+    width:300px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #afacac;
+    border-radius: 3px;
+    border-width: 1px;
+}
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+button {
+    margin-left: 150px;
+    margin-top: 15px;
+    padding: 10px;
+    width: 5%;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+button:hover {
+    background: #218838;
+}
